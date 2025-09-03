@@ -1,6 +1,5 @@
 {
   "mappings": [
-    "/content/wknd-universal-update/language-masters/en:/",
     "/content/wknd-universal-update/language-masters/en/:/",
     "/content/wknd-universal-update/configuration:/.helix/config.json",
     "/content/wknd-universal-update/metadata:/metadata.json",
